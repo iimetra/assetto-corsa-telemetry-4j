@@ -2,6 +2,8 @@
 Assetto Corsa Telemetry Client is a Java library to listen telemetry over UPD.  
 [AC Remote Telemetry Documentation](https://docs.google.com/document/d/1KfkZiIluXZ6mMhLWfDX1qAGbvhGRC3ZUzjVIt5FQpp4/pub)
 
+![](https://github.com/iimetra/assetto-corsa-telemetry-4j/workflows/tests/badge.svg)
+
 ## Installation
 Pull the code and install it locally with maven.
 ```bash
