@@ -6,7 +6,7 @@
 
   <groupId>dev.iimetra</groupId>
   <artifactId>assetto-corsa-telemetry-4j</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 
   <name>Assetto Corsa Telemetry Client</name>
   <description>
