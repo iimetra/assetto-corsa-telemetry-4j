@@ -130,4 +130,12 @@
     <url>https://github.com/iimetra/assetto-corsa-telemetry-4j/tree/master</url>
   </scm>
 
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>Assetto Corsa Telemetry Client</name>
+      <url>https://maven.pkg.github.com/iimetra/assetto-corsa-telemetry-4j</url>
+    </repository>
+  </distributionManagement>
+
 </project>
