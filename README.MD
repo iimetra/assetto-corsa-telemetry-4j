@@ -2,21 +2,16 @@
 Assetto Corsa Telemetry Client is a Java library to listen telemetry over UPD.  
 [AC Remote Telemetry Documentation](https://docs.google.com/document/d/1KfkZiIluXZ6mMhLWfDX1qAGbvhGRC3ZUzjVIt5FQpp4/pub)
 
-![](https://github.com/iimetra/assetto-corsa-telemetry-4j/workflows/tests/badge.svg)
+![](https://github.com/iimetra/assetto-corsa-telemetry-4j/workflows/Master%20Branch/badge.svg)
 
 ## Installation
-Pull the code and install it locally with maven.
-```bash
-git clone git@github.com:iimetra/assetto-corsa-telemetry-4j.git
-cd assetto-corsa-telemetry-4j
-mvn clean install
-```
-Add dependency to your project.
+1. Authenticate to GitHub Packages. For more information, see [Authenticating to GitHub Packages.](https://docs.github.com/en/packages/guides/configuring-apache-maven-for-use-with-github-packages#authenticating-to-github-packages)
+2. Add dependency to your project.
 ```xml
 <dependency>
   <groupId>dev.iimetra</groupId>
   <artifactId>assetto-corsa-telemetry-4j</artifactId>
-  <version>1.0.0-SNAPSHOT</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
